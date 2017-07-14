@@ -1,0 +1,20 @@
+c:\users\misiak-pc\documents\visual studio 2013\Projects\Rozszerzator\Rozszerzator\obj\Debug\Rozszerzator.csprojResolveAssemblyReference.cache
+c:\users\misiak-pc\documents\visual studio 2013\Projects\Rozszerzator\Rozszerzator\obj\Debug\Rozszerzator.Form1.resources
+c:\users\misiak-pc\documents\visual studio 2013\Projects\Rozszerzator\Rozszerzator\obj\Debug\Rozszerzator.Properties.Resources.resources
+c:\users\misiak-pc\documents\visual studio 2013\Projects\Rozszerzator\Rozszerzator\obj\Debug\Rozszerzator.csproj.GenerateResource.Cache
+C:\Users\Misiak-PC\documents\visual studio 2013\Projects\Rozszerzator\Rozszerzator\obj\Debug\Rozszerzator.Form2.resources
+C:\Users\Misiak-PC\documents\visual studio 2013\Projects\Rozszerzator\Rozszerzator\bin\Debug\Kombinator v.1.0.0.0.exe.config
+C:\Users\Misiak-PC\documents\visual studio 2013\Projects\Rozszerzator\Rozszerzator\bin\Debug\Kombinator v.1.0.0.0.exe
+C:\Users\Misiak-PC\documents\visual studio 2013\Projects\Rozszerzator\Rozszerzator\bin\Debug\Kombinator v.1.0.0.0.pdb
+C:\Users\Misiak-PC\documents\visual studio 2013\Projects\Rozszerzator\Rozszerzator\obj\Debug\Kombinator v.1.0.0.0.exe
+C:\Users\Misiak-PC\documents\visual studio 2013\Projects\Rozszerzator\Rozszerzator\obj\Debug\Kombinator v.1.0.0.0.pdb
+C:\Users\Misiak-PC\Documents\Visual Studio 2013\Projects\Rozszerzator — kopia\Rozszerzator\bin\Debug\Kombinator v.1.0.0.0.exe.config
+C:\Users\Misiak-PC\Documents\Visual Studio 2013\Projects\Rozszerzator — kopia\Rozszerzator\obj\Debug\Kombinator v.1.0.0.0.exe
+C:\Users\Misiak-PC\Documents\Visual Studio 2013\Projects\Rozszerzator — kopia\Rozszerzator\obj\Debug\Kombinator v.1.0.0.0.pdb
+C:\Users\Misiak-PC\Documents\Visual Studio 2013\Projects\Rozszerzator — kopia\Rozszerzator\bin\Debug\Kombinator v.1.0.0.0.exe
+C:\Users\Misiak-PC\Documents\Visual Studio 2013\Projects\Rozszerzator — kopia\Rozszerzator\bin\Debug\Kombinator v.1.0.0.0.pdb
+C:\Users\Misiak-PC\Documents\Visual Studio 2013\Projects\Rozszerzator — kopia\Rozszerzator\obj\Debug\Rozszerzator.csprojResolveAssemblyReference.cache
+C:\Users\Misiak-PC\Documents\Visual Studio 2013\Projects\Rozszerzator — kopia\Rozszerzator\obj\Debug\Rozszerzator.Form1.resources
+C:\Users\Misiak-PC\Documents\Visual Studio 2013\Projects\Rozszerzator — kopia\Rozszerzator\obj\Debug\Rozszerzator.Form2.resources
+C:\Users\Misiak-PC\Documents\Visual Studio 2013\Projects\Rozszerzator — kopia\Rozszerzator\obj\Debug\Rozszerzator.Properties.Resources.resources
+C:\Users\Misiak-PC\Documents\Visual Studio 2013\Projects\Rozszerzator — kopia\Rozszerzator\obj\Debug\Rozszerzator.csproj.GenerateResource.Cache
