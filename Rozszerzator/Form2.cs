@@ -28,7 +28,7 @@ namespace Rozszerzator
 
         private void authorButton_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Autorem tego programu jest Mateusz Podsiadło.\n\nPozdro elo program spoko, ładuj pliki kij Ci w oko");
+            MessageBox.Show("Autorem tego programu jest Mateusz Podsiadło.\n\nPozdro elo program spoko, ładuj pliki, mierz wysoko");
         }
 
         private void previousButton_Click(object sender, EventArgs e)
